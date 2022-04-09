@@ -1,0 +1,3 @@
+- [] learn github
+- [] learn typescript
+- [] get job

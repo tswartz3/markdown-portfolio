@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [] learn github
+- [] learn typescript
+- [] get job
